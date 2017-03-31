@@ -15,7 +15,7 @@ namespace Common.WebApi
         {
             GlobalConfiguration.Configure(WebApiConfig.Register);
 
-            log4net.Config.XmlConfigurator.Configure(new System.IO.FileInfo(AppDomain.CurrentDomain.BaseDirectory + "\\bin\\log4net.config"));
+            //log4net.Config.XmlConfigurator.Configure(new System.IO.FileInfo(AppDomain.CurrentDomain.BaseDirectory + "\\bin\\log4net.config"));
 
             //默认返回json格式
             GlobalConfiguration.Configuration.Formatters.XmlFormatter.SupportedMediaTypes.Clear();

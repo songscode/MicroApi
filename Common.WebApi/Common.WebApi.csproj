@@ -85,9 +85,6 @@
     <Compile Include="WebApiConfig.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="log4net.config">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
     <None Include="app.config" />
     <None Include="packages.config" />
   </ItemGroup>
