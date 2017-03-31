@@ -1,0 +1,77 @@
+
+ 
+记录时间：2016-07-28 13:43:31,327 
+线程ID:[9] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UserController
+            ActionName:Get
+            开始时间：2016/7/28 13:43:31
+            结束时间：2016/7/28 13:43:31
+            总 时 间：0.0723605秒
+            Action参数：username=1&password=sdd
+            Http请求头:Connection: keep-alive
+Accept: text/html, application/xhtml+xml, application/xml; q=0.9, */*; q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN, zh; q=0.8, en-US; q=0.5, en; q=0.3
+Cookie: _ati=9784430149529; _umdata=C234BF9D3AFA6FE7038C35D04B61C10935E85A2A8D32BB26D1EEB6E0B2667F1593B136C61BE03036C4B83E967F86163C7118C438A493610854E284595F5F537466D248A14D70F3BDE8CAA8DB5C60F42E1A39379617DEFA688C1017FB03947BDD7B37131448EB2C04; BeefunMainOpenMark=2016/7/28%20%u4E0A%u534811%3A36%3A10766; corpName=%E6%B5%8B%E8%AF%95bf002; userName=bf002; ASP.NET_SessionId=fyzmjj0tdfstbq2jbw1n2myo
+Host: localhost:4527
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-07-28 13:58:04,875 
+线程ID:[19] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UserController
+            ActionName:Get
+            开始时间：2016/7/28 13:58:04
+            结束时间：2016/7/28 13:58:04
+            总 时 间：0.0005005秒
+            Action参数：username=1&password=sdd
+            Http请求头:Cache-Control: max-age=0
+Connection: keep-alive
+Accept: text/html, application/xhtml+xml, application/xml; q=0.9, */*; q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN, zh; q=0.8, en-US; q=0.5, en; q=0.3
+Cookie: _ati=9784430149529; _umdata=C234BF9D3AFA6FE7038C35D04B61C10935E85A2A8D32BB26D1EEB6E0B2667F1593B136C61BE03036C4B83E967F86163C7118C438A493610854E284595F5F537466D248A14D70F3BDE8CAA8DB5C60F42E1A39379617DEFA688C1017FB03947BDD7B37131448EB2C04; BeefunMainOpenMark=2016/7/28%20%u4E0A%u534811%3A36%3A10766; corpName=%E6%B5%8B%E8%AF%95bf002; userName=bf002; ASP.NET_SessionId=fyzmjj0tdfstbq2jbw1n2myo
+Host: localhost:4527
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-07-28 16:14:24,576 
+线程ID:[7] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UserController
+            ActionName:Get
+            开始时间：2016/7/28 16:14:24
+            结束时间：2016/7/28 16:14:24
+            总 时 间：0.0641041秒
+            Action参数：username=1&password=sdd
+            Http请求头:Cache-Control: max-age=0
+Connection: keep-alive
+Accept: text/html, application/xhtml+xml, application/xml; q=0.9, */*; q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN, zh; q=0.8, en-US; q=0.5, en; q=0.3
+Cookie: _ati=9784430149529; _umdata=C234BF9D3AFA6FE7038C35D04B61C10935E85A2A8D32BB26D1EEB6E0B2667F1593B136C61BE03036C4B83E967F86163C7118C438A493610854E284595F5F537466D248A14D70F3BDE8CAA8DB5C60F42E1A39379617DEFA688C1017FB03947BDD7B37131448EB2C04; BeefunMainOpenMark=2016/7/28%20%u4E0B%u53483%3A32%3A23450; corpName=%E6%B5%8B%E8%AF%95bf002; userName=bf002; ASP.NET_SessionId=fyzmjj0tdfstbq2jbw1n2myo
+Host: localhost:4527
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 

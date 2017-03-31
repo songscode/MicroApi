@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroApi.Core", "MicroApi.Core\MicroApi.Core.csproj", "{2120E85F-B4B3-4BD2-B487-9E085BF4CD57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{A18DD0AE-165B-4B29-A616-7D00C4244C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiThrottle", "WebApiThrottle\WebApiThrottle.csproj", "{F049811F-BC05-4CEE-B329-CE3BF2E2E4BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.WebApi", "Common.WebApi\Common.WebApi.csproj", "{B0DA4888-C8B3-4D83-A7EA-E5DE5E963BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2120E85F-B4B3-4BD2-B487-9E085BF4CD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2120E85F-B4B3-4BD2-B487-9E085BF4CD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2120E85F-B4B3-4BD2-B487-9E085BF4CD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2120E85F-B4B3-4BD2-B487-9E085BF4CD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18DD0AE-165B-4B29-A616-7D00C4244C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18DD0AE-165B-4B29-A616-7D00C4244C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18DD0AE-165B-4B29-A616-7D00C4244C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18DD0AE-165B-4B29-A616-7D00C4244C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F049811F-BC05-4CEE-B329-CE3BF2E2E4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F049811F-BC05-4CEE-B329-CE3BF2E2E4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F049811F-BC05-4CEE-B329-CE3BF2E2E4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F049811F-BC05-4CEE-B329-CE3BF2E2E4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DA4888-C8B3-4D83-A7EA-E5DE5E963BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DA4888-C8B3-4D83-A7EA-E5DE5E963BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DA4888-C8B3-4D83-A7EA-E5DE5E963BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DA4888-C8B3-4D83-A7EA-E5DE5E963BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
